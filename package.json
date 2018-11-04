@@ -31,5 +31,9 @@
     "webpack-dev-server": "^3.1.10"
   },
   "author": "Christophe Mutabazi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christophe12/fullpage-prompt"
+  },
   "license": "MIT"
 }
