@@ -1,0 +1,26 @@
+.prompt-wrapper {
+    position: fixed;
+	left: 0;
+	top: 0;
+    min-height: 100%;
+    z-index: 99999999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	width: 100%;
+	background: rgba(42, 68, 102, 0.8);
+	overflow-y: hidden;
+}
+
+.prompt-wrapper .hide {
+	display: none;
+}
+
+.prompt-wrapper .show {
+	display: flex !important;
+	font-size: 1.2rem;
+}
+
+.prompt-wrapper div {
+	color: #fff;
+}
