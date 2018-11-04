@@ -1,4 +1,4 @@
-# A full page wrapper component that can be used as a prompt on a user action
+# A full page prompt component that can be used as a prompt on a user action
 
 It is very common when working on react projects to want to display a prompt or notification on a specific user action.
 With this component you can accomplish just that.
